@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "testthinker"
+version = "0.1.0"
+description = ""
+authors = ["Pietro"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+rumps = "*"
+pynput = "*"
+pyperclip="*"
+pyautogui="*"
+PyQt6="*"
+psutil="*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
