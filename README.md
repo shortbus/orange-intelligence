@@ -66,7 +66,7 @@ Orange Intelligence simplifies text processing with a three-step pipeline:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/orange-intelligence.git
+   git clone [https://github.com/sharingan-no-kakashi/orange-intelligence.git]
    cd orange-intelligence
    ```  
 2. Install dependencies using Poetry:  
