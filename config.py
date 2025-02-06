@@ -14,8 +14,8 @@ CONFIG = {
     },
     "ollama": {
         "name": "ollama",
-        "url": "https://ollama.com",
-        "default_model": "llama3.1",
+        "url": "http://localhost:11434",
+        "default_model": "llama3.2",
     },
     "openai": {"api_key": os.environ.get("OPENAPI_KEY"), "default_model": "gpt-3.5-turbo"},
     "logging": {
